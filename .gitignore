@@ -1,0 +1,12 @@
+Output/
+build/
+Debug/
+Release/
+.pio/
+.vscode/
+*.o
+*.d
+*.elf
+*.hex
+*.bin
+*.map
